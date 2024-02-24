@@ -1,4 +1,8 @@
-### Hi there 👋
+### Heyy👋
+## I'm Vural,
+I'm a Computer Engineering student and very into to robotics, machine learning and computer vision.
+That's why I set up Future Gadget LAB
+The youtube link : https://www.youtube.com/@vuralbilgn
 
 <!--
 **Zer0desu1/Zer0desu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
